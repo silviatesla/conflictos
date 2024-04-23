@@ -2,3 +2,5 @@
 hola holita que tal
 
 Loiola es conflictiva en la rama 2 :)
+
+Loiola ha solucionado el conflicot, así que ya no es conflictiva :)
